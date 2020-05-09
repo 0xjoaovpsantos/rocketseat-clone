@@ -25,7 +25,7 @@ Clone da página principal do site da Rocketseat:
 
 Para poder estudar e treinar mais minhas habilidades com HTML e CSS sem framework, resolvi refazer a home do site da <a href="">Rocketseat</a> para poder treinar e fixar o que estou estudando.
 
-## 🔥 O que aprendemos?:
+## 🔥 O que aprendemos?
 
 Através dessa aplicação conseguimos entender:
 
