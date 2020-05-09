@@ -5,9 +5,14 @@
 Clone da página principal do site da Rocketseat: 
 <a href="https://joaovictorpsantos.github.io/rocketseat-clone/">https://joaovictorpsantos.github.io/rocketseat-clone/</a>
 <br/><br/>
-<img src="gifs/overview.gif">
-<br/>
-<img src="gifs/responsive_example.gif">
+<div style="display:flex">
+<img src="gifs/overview.gif" width="400px">
+<img src="gifs/responsive_example.gif" style="margin-left:3px"  width="400px">
+</div>
+<div style="display:flex">
+<img src="gifs/expandindo.gif" width="400px">
+<img src="gifs/diminuindo.gif" style="margin-left:3px" width="400px">
+</div>
 </h2>
 
 <blockquote align="center">
