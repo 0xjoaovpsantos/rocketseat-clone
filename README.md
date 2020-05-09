@@ -19,11 +19,12 @@ Clone da página principal do site da Rocketseat
 
 Para poder estudar e treinar mais minhas habilidades com HTML e CSS sem framework, resolvi refazer a home do site da <a href="">Rocketseat</a> para poder treinar e fixar o que estou estudando.
 
-## 🔥 Funcionalidades:
+## 🔥 O que aprendemos?:
 
-Através dessa aplicação conseguimos:
+Através dessa aplicação conseguimos entender:
 
-- Ter noção como desenvolver uma página responsiva apenas com HTML e CSS
+- Táticas para criar um site responsivo
+- Como poder usar o display flexbox
 - Entender como funcionas os @medias no CSS
 - Enteder o uso do @import no CSS
 
