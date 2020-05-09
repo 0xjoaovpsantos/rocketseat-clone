@@ -1,0 +1,61 @@
+section#cursos{
+  padding: 60px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+section#cursos .content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100%;
+}
+
+section#cursos .content .container  {
+  max-width: 460px;
+  margin-left: 40px;
+}
+
+section#cursos .content .container h2 {
+  display: flex;
+  align-items: center;
+  font-size: 36px;
+  line-height: 48px;
+  color: #4B4B4B;
+}
+
+section#cursos .content .container p {
+  font-size: 18px;
+  line-height: 32px;
+  margin-top: 10px;
+  color: #9A8EBF;
+}
+
+section#cursos .content .container button {
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  background: #7159C1;
+  height: 50px;
+  padding: 0 30px;
+  border: 0;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+@media only screen and (max-width: 700px){
+  section#cursos .content {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+  
+  section#cursos .content .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin: 20px 0;
+  }
+}

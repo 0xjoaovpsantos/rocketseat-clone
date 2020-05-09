@@ -1,0 +1,50 @@
+section#comunidade {
+  padding: 60px 0px;
+  background: #F1EFFF;
+}
+
+section#comunidade .content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+section#comunidade .content .container {
+  width: 440px;
+}
+
+section#comunidade .content .container h2 {
+  font-size: 36px;
+  color: #4b4b4b;
+  line-height: 48px;
+}
+
+section#comunidade .content .container p {
+  font-size: 18px;
+  color: #9A8EBF;
+  line-height: 32px;
+  margin-top: 10px;
+}
+
+section#comunidade .content button {
+  background: #7159C1;
+  height: 50px;
+  padding: 0 30px;
+  border: 0;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 20px;
+}
+
+@media only screen and (max-width: 700px){
+  section#comunidade .content img {
+    display:none;
+  }
+
+  section#comunidade .content .container {
+    width: 100%;
+    text-align: center;
+  }
+}

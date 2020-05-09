@@ -1,0 +1,91 @@
+section#contato {
+  padding: 10px 0px;
+  background: #7159c1;
+}
+
+section#contato .content .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+section#contato .content .container div {
+  display:flex;
+  padding-left: 20px;
+}
+
+section#contato .content .container div div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #fff;
+}
+
+section#contato .content .container div div strong {
+  font-size: 24px;
+}
+
+section#contato .content .container div div span {
+  font-size: 15px;
+  color: #D3CCEC
+}
+
+section#contato .content .container div div div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background: #fff;
+  height: 48px;
+  padding: 0 20px;
+  border-radius: 4px;
+  margin-top: 20px;
+}
+
+section#contato .content .container div div div input {
+  border: 0;
+}
+
+@media only screen and (max-width: 850px){
+  section#contato .content .container .img_lateral {
+    display: none;
+  }
+
+  section#contato .content .container {
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+@media only screen and (max-width: 500px){
+  section#contato .content .container div img {
+    padding-left: 0px;
+    display: none;
+  }
+}
+
+footer .content .container {
+  display: flex;
+  justify-content: space-between;
+  padding: 25px 0px;
+  color: #666666;
+}
+
+footer .content .container ul {
+  list-style: none;
+  display:flex;
+}
+
+footer .content .container ul li {
+  margin: 0 10px;
+}
+
+@media only screen and (max-width: 1000px){
+  footer .content .container {
+    justify-content: center;
+  }
+
+  footer .content .container ul {
+    display: none;
+  }
+}

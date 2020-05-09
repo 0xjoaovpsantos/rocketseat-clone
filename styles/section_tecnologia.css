@@ -1,0 +1,41 @@
+section#tecnologia {
+  background: #7159c1;
+  padding: 60px 0;
+}
+
+section#tecnologia .content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100%;
+}
+
+section#tecnologia .content .container h2 {
+  font-size: 36px;
+  line-height: 48px;
+  color: #fff;
+}
+
+section#tecnologia .content .container h3 {
+  font-size: 24px;
+  line-height: 52px;
+  color: #ddd5f8;
+}
+
+section#tecnologia .content .container p {
+  font-size: 16px;
+  line-height: 32px;
+  color: #ddd5f8;
+  margin-top: 10px;
+}
+
+@media only screen and (max-width: 700px){
+  section#tecnologia .content img {
+    display: none;
+  }
+
+  section#tecnologia .content .container {
+    width: 100%;
+    text-align: center;
+  }
+}
