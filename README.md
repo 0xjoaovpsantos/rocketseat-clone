@@ -2,7 +2,8 @@
 
 <img src="images/rocketseat_logo.png">
 <br/><br/>
-Clone da página principal do site da Rocketseat
+Clone da página principal do site da Rocketseat: 
+<a href="https://joaovictorpsantos.github.io/rocketseat-clone/">https://joaovictorpsantos.github.io/rocketseat-clone/</a>
 <br/><br/>
 <img src="gifs/overview.gif">
 <br/>
