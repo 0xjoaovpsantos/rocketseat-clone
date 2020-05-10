@@ -4,7 +4,7 @@
 <br/><br/>
 Clone da página principal do site da Rocketseat: 
 <a href="https://joaovictorpsantos.github.io/rocketseat-clone/">https://joaovictorpsantos.github.io/rocketseat-clone/</a><br/><br/>
-Link para a vídeo aula de como desenolver no meu canal no Youtube: 
+Link para vídeo aula de como desenvolver no meu canal no Youtube:
 <a href="https://www.youtube.com/playlist?list=PLLSLbEdBpdAu126QAOzpr8QSuoAP90JFe">Clique aqui</a>
 <br/><br/>
 <div style="display:flex">
