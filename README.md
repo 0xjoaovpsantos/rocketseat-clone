@@ -1,7 +1,8 @@
 <h2 align="center">
 
 <img src="images/rocketseat_logo.png">
-#HomePage Rocket
+
+# HomePage Rocket
 
 > Clone da homepage do site da Rocketseat feito com HTML e CSS, para ver o resultado <a href="https://joaovictorpsantos.github.io/rocketseat-clone/">clique aqui</a>, e para ver a séria de vídeos desenvolvendo <a href="https://www.youtube.com/playlist?list=PLLSLbEdBpdAu126QAOzpr8QSuoAP90JFe">clique aqui</a>.
 
