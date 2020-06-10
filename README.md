@@ -22,7 +22,9 @@
 <img alt="Forks" src="https://img.shields.io/github/forks/joaovictorpsantos/rocketseat-clone?color=7159c1&style=flat-square">
 </a>
 
+<a href="#">
 <img alt="Tamanho do código em bytes" src="https://img.shields.io/github/languages/code-size/joaovictorpsantos/rocketseat-clone?color=7159c1&style=flat-square">
+</a>
 
 <a href="https://github.com/joaovictorpsantos/rocketseat-clone/commits/master">
 <img alt="Commits" src="https://img.shields.io/github/last-commit/joaovictorpsantos/rocketseat-clone?color=7159c1&style=flat-square">
