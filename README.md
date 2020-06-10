@@ -1,5 +1,3 @@
-<h2 align="center">
-
 <img src="images/rocketseat_logo.png">
 
 # HomePage Rocket
