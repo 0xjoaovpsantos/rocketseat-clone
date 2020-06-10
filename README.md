@@ -1,12 +1,33 @@
 <h2 align="center">
 
 <img src="images/rocketseat_logo.png">
+#HomePage Rocket
+> Clone da homepage do site da Rocketseat feito com HTML e CSS, para ver o resultado <a href="https://joaovictorpsantos.github.io/rocketseat-clone/">clique aqui</a>, e para ver a séria de vídeos desenvolvendo <a href="https://www.youtube.com/playlist?list=PLLSLbEdBpdAu126QAOzpr8QSuoAP90JFe">clique aqui</a>.
+
+<a href="https://github.com/joaovictorpsantos">
+<img alt="Autor" src="https://img.shields.io/badge/autor-JoãoVictorPereiraSantos-7159c1?style=flat-square">
+</a>
+
+<a href="#">
+<img alt="Linguagens" src="https://img.shields.io/github/languages/count/joaovictorpsantos/rocketseat-clone?color=7159c1&style=flat-square">
+</a>
+
+<a href="https://github.com/joaovictorpsantos/rocketseat-clone/stargazers">
+<img alt="Stars" src="https://img.shields.io/github/stars/joaovictorpsantos/rocketseat-clone?color=7159c1&style=flat-square">
+</a>
+
+<a href="https://github.com/joaovictorpsantos/rocketseat-clone/network/members">
+<img alt="Forks" src="https://img.shields.io/github/forks/joaovictorpsantos/rocketseat-clone?color=7159c1&style=flat-square">
+</a>
+
+<img alt="Tamanho do código em bytes" src="https://img.shields.io/github/languages/code-size/joaovictorpsantos/rocketseat-clone?color=7159c1&style=flat-square">
+
+<a href="https://github.com/joaovictorpsantos/rocketseat-clone/commits/master">
+<img alt="Commits" src="https://img.shields.io/github/last-commit/joaovictorpsantos/rocketseat-clone?color=7159c1&style=flat-square">
+</a>
+
 <br/><br/>
-Clone da página principal do site da Rocketseat: 
-<a href="https://joaovictorpsantos.github.io/rocketseat-clone/">https://joaovictorpsantos.github.io/rocketseat-clone/</a><br/><br/>
-Link para vídeo aula de como desenvolver no meu canal no Youtube:
-<a href="https://www.youtube.com/playlist?list=PLLSLbEdBpdAu126QAOzpr8QSuoAP90JFe">Clique aqui</a>
-<br/><br/>
+
 <div style="display:flex">
 <img src="gifs/overview.gif" width="400px">
 <img src="gifs/responsive_example.gif" style="margin-left:3px"  width="400px">
@@ -25,7 +46,7 @@ Link para vídeo aula de como desenvolver no meu canal no Youtube:
 
 ## 💡 Sobre o projeto:
 
-Para poder estudar e treinar mais minhas habilidades com HTML e CSS sem framework, resolvi refazer a home do site da <a href="">Rocketseat</a> para poder treinar e fixar o que estou estudando.
+Para poder estudar e treinar mais minhas habilidades com HTML e CSS sem framework, resolvi refazer a home do site da <a href="">Rocketseat</a> para poder treinar e fixar o que estou estudando e compartilhar o processo de desenvolvimento em uma série de vídeos no youtube, caso queira ver, <a href="https://www.youtube.com/playlist?list=PLLSLbEdBpdAu126QAOzpr8QSuoAP90JFe">clique aqui</a>, e o projeto em produção está disponível <a href="https://joaovictorpsantos.github.io/rocketseat-clone/">aqui</a>.
 
 ## 🔥 O que aprendemos?
 
@@ -55,9 +76,6 @@ $ git clone https://github.com/joaovictorpsantos/rocketseat-clone.git
 ```
 
 Abra a página "index.html" no browser.
-
-
-
 
 <br/>
 
